@@ -27,7 +27,7 @@ Mosquito-borne diseases continue to pose serious public health threats worldwide
 
 ## Model
 
-- Architecture: **YOLOv5** (Fused model, 72 layers)
+- Architecture: **YOLOv8** 
 - Parameters: ~3M  
 - GFLOPs: 8.1  
 - No gradient tracking during inference
